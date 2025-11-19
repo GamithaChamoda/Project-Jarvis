@@ -1,2 +1,2 @@
-# Prohect-Jarvis
+# Project-Jarvis
 Personal AI asisstence 
